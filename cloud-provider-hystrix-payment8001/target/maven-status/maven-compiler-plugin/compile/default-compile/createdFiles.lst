@@ -1,0 +1,3 @@
+com\yujibo\springcloud\controller\PaymentController.class
+com\yujibo\springcloud\service\PaymentService.class
+com\yujibo\springcloud\PaymentHystrixMain8001.class

@@ -1,0 +1,4 @@
+com\yujibo\springcloud\config\FeignConfig.class
+com\yujibo\springcloud\controller\OrderFeignController.class
+com\yujibo\springcloud\OrderFeignMain80.class
+com\yujibo\springcloud\service\PaymentFeignService.class

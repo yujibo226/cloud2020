@@ -1,5 +1,5 @@
-D:\git\cloud2020\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\PaymentMain8002.java
-D:\git\cloud2020\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\controller\PaymentController.java
-D:\git\cloud2020\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\service\impl\PaymentServiceImpl.java
-D:\git\cloud2020\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\dao\PaymentDao.java
-D:\git\cloud2020\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\service\PaymentService.java
+D:\gitea\springcloud\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\PaymentMain8002.java
+D:\gitea\springcloud\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\controller\PaymentController.java
+D:\gitea\springcloud\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\dao\PaymentDao.java
+D:\gitea\springcloud\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\service\impl\PaymentServiceImpl.java
+D:\gitea\springcloud\cloud-provider-payment8002\src\main\java\com\yujibo\springcloud\service\PaymentService.java
